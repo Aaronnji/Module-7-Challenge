@@ -1,15 +1,15 @@
-# 1
+# Module 7 Challenge Readme Generater
   # Description 
-   1
+   Readme Generater
   # Installtion
-   1
+   npm install
   # Usage
-   1
+   npm process
   # Contributing
-   1
+   node.js
   # License
    ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg) This is the MIT license. Here is the link [License: MIT](https://opensource.org/license/MIT)
   # Github username
-   1
+   Xincheng Ji
   # Email
-   1
+   jxcljw@github.com
