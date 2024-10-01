@@ -1,15 +1,15 @@
-# Module 7
+# 1
   # Description 
-   Challenge
+   1
   # Installtion
-   npm
+   1
   # Usage
-   npm
+   1
   # Contributing
-   inquirer
+   1
   # License
-   undefined This is the MIT license. Here is the link [License: MIT](https://opensource.org/license/MIT)
+   ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg) This is the MIT license. Here is the link [License: MIT](https://opensource.org/license/MIT)
   # Github username
-   Aaronji
+   1
   # Email
-   jxcljw@github.com
+   1
